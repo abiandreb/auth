@@ -3,3 +3,28 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+
+# Environment variables
+.env
+
+# .NET
+*.user
+*.suo
+.vs/
+
+# Node
+node_modules/
+dist/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+.claude/
+
+# Database
+*.mdf
+*.ldf
